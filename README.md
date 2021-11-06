@@ -110,7 +110,7 @@
 
 ### My github stats
 <p>
-   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ohadr98&&show_icons=true&title_color=ffffff&icon_color=00ff00&text_color=ffffff&bg_color=151515" /></p>
+   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyalrainitz&&show_icons=true&title_color=ffffff&icon_color=00ff00&text_color=ffffff&bg_color=151515" /></p>
 <p>
 
    
@@ -118,7 +118,7 @@
    
 ### Visitor Counter
    
-  <img src="https://profile-counter.glitch.me/Ohadr98/count.svg" />
+  <img src="https://profile-counter.glitch.me/eyalrainitz/count.svg" />
 </p>     
 
 <!--
