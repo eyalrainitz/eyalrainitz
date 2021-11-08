@@ -112,13 +112,12 @@
 <p>
    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyalrainitz&&show_icons=true&title_color=ffffff&icon_color=00ff00&text_color=ffffff&bg_color=151515" /></p>
 <p>
-### most languages
-<img alt="Eyal Rainitz's Most Used langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyalrainitz&show_icons=true&title_color=ffffff&icon_color=808080&text_color=808080&bg_color=0D1117&locale=en&layout=compact&langs_count=8&border_color=0D1117" alt="renatts" />
-
-
-<p align="center">
-
    
+### Most Languages
+   
+<img alt="Eyal Rainitz's Most Used langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyalrainitz&show_icons=true&title_color=ffffff&icon_color=808080&text_color=808080&bg_color=0D1117&locale=en&layout=compact&langs_count=8&border_color=0D1117" alt="eyalrainitz" />
+
+
 <p align="center">
    
 ### Visitor Counter
