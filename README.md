@@ -1,10 +1,3 @@
-## My name is Eyal
-- [x] I'm a student at "RhinOps DevOps Bootcamp" by Sela Group
-- [x] I'm junior DevOps engineer and junior Full Stack Developer
-- [x] I have motivation and a desire to learn and improve, and have high comprehension and self-learning abilities
-- [x] I like to discover new technologies and work for projects which have scope for self learning and development
-- [x] Team player 
-### Contact me by
 
 <p>
    <a href="https://www.linkedin.com/in/eyal-rainitz-4263b5222/">
